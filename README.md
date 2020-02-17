@@ -28,8 +28,8 @@ Profissional com capacidade de auto desenvolvimento, organização, postura e bo
 
 
 
-## Projetos:
-Veja os tutoriais publicados:
+## Projetos Publicados:
+
 
 <b>Análise de Dados Airbnb - Los Angeles:</b> https://bit.ly/2SVHjz5
 
