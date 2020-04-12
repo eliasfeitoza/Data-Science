@@ -6,7 +6,7 @@
 
 # Elias Feitoza
 
-<sub>*Estudante na área de Ciência de Dados*</sub>
+<sub>*Cientistancia de Dados*</sub>
 
 
 
