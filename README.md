@@ -31,7 +31,7 @@ Profissional com capacidade de auto desenvolvimento, organização, postura e bo
 ## Projetos Publicados:
 
 
-<b>Análise de Dados Airbnb - Los Angeles:</b> https://bit.ly/2SVHjz5
-<b>Análise de Dados Airbnb - Tokyo:</b> https://bit.ly/2y4PWRc
+<b>Análise de Dados Airbnb - Los Angeles:</b> https://bit.ly/2SVHjz5<br>
+<b>Análise de Dados Airbnb - Tokyo:</b> https://bit.ly/2y4PWRc<br>
 
 
