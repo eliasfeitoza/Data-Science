@@ -14,7 +14,6 @@
 
 Profissional com formação em Tecnologia da Informação. 
 Pós Graduado em MBA Executivo Gestão de Logística .
-Experiência em lideranças de equipes. Atendimento a clientes internos e externos, atuando como facilitador na resolução de problemas.
 
 
 Vivência de 13 anos no segmento de Logística. Atuação no Transporte Rodoviário de Cargas Gerais e Operações dedicadas em armazéns.
