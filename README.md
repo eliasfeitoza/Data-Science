@@ -6,7 +6,7 @@
 
 # Elias Feitoza
 
-<sub>*Cientistancia de Dados*</sub>
+<sub>*Cientista de Dados*</sub>
 
 
 
