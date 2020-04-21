@@ -32,5 +32,6 @@ Profissional com capacidade de auto desenvolvimento, organização, postura e bo
 
 <b>Análise de Dados Airbnb - Los Angeles:</b> https://bit.ly/2SVHjz5<br>
 <b>Análise de Dados Airbnb - Tokyo:</b> https://bit.ly/2y4PWRc<br>
+<b>Análise Exploratória - Violência no Rio de Janeiro:</b> https://bit.ly/2Vqtriz<br>
 
 
