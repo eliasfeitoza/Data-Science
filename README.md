@@ -16,9 +16,7 @@ Profissional com formação em Tecnologia da Informação.
 Pós Graduado em MBA Executivo Gestão de Logística .
 
 
-Vivência de 13 anos no segmento de Logística. Atuação no Transporte Rodoviário de Cargas Gerais e Operações dedicadas em armazéns.
-Procuro aplicar meus conhecimentos e corresponder às perspectivas que me forem designadas, vencendo desafios e atuando sempre na busca de qualidade com foco no resultado.
-Profissional com capacidade de auto desenvolvimento, organização, postura e bom relacionamento interpessoal. Dinâmico, criativo, inovador, comunicativo e valorização de trabalhos em equipes.
+Profissional com mais de 13 anos de experiência na Área de Logística, atuando em grandes empresas do Brasil. Expertise em gestão de pedidos, análise de dados, KPI’s e Dashboards. Experiência consolidada em controle de estoques, Inbound, inventários, emissão de nota fiscal, processos de melhoria, recebimento e expedição. Profissional altamente capacipado para gerir e liderar pessoas, atuando com liderança de equipe direta. Vivência na área de projetos logísticos e forte atuação com processos de auditoria. Profissional dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado às funções e focado em resultados. Organizado, responsável e com facilidade em adaptar-se às mudanças. 
 
 
 **Links:**
@@ -33,5 +31,6 @@ Profissional com capacidade de auto desenvolvimento, organização, postura e bo
 <b>Análise de Dados Airbnb - Los Angeles:</b> https://bit.ly/2SVHjz5<br>
 <b>Análise de Dados Airbnb - Tokyo:</b> https://bit.ly/2y4PWRc<br>
 <b>Análise Exploratória - Violência no Rio de Janeiro:</b> https://bit.ly/2Vqtriz<br>
+<b>Análise Exploratória - Doenças Cardiovasculares:</b> 
 
 
