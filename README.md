@@ -16,7 +16,7 @@ Profissional com formação em Tecnologia da Informação.
 Pós Graduado em MBA Executivo Gestão de Logística .
 
 
-Profissional com mais de 13 anos de experiência na Área de Logística, atuando em grandes empresas do Brasil. Expertise em gestão de pedidos, análise de dados, KPI’s e Dashboards. Experiência consolidada em controle de estoques, Inbound, inventários, emissão de nota fiscal, processos de melhoria, recebimento e expedição. Profissional altamente capacipado para gerir e liderar pessoas, atuando com liderança de equipe direta. Vivência na área de projetos logísticos e forte atuação com processos de auditoria. Profissional dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado às funções e focado em resultados. Organizado, responsável e com facilidade em adaptar-se às mudanças. 
+Profissional com mais de 13 anos de experiência na Área de Logística, com grande visão de análise de negócios, atuando em grandes empresas do Brasil. Expertise em gestão de pedidos, análise de dados, mineração de dados, KPI’s e Dashboards. Experiência consolidada em controle de estoques, Inbound, inventários, emissão de nota fiscal, processos de melhoria, recebimento e expedição. Profissional altamente capacipado para gerir e liderar pessoas, atuando com liderança de equipe direta. Vivência na área de projetos logísticos e forte atuação com processos de auditoria. Profissional dinâmico, com iniciativa, facilidade de aprendizado e de bom relacionamento interpessoal, dedicado às funções e focado em resultados. Organizado, responsável e com facilidade em adaptar-se às mudanças. 
 
 
 **Links:**
