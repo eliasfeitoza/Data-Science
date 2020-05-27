@@ -10,7 +10,7 @@
 
 
 
-**Background in:** Supply Chain, Microsoft Excel, Microsoft Power Bi, Data Analitics
+**Background in:** Supply Chain, Microsoft Excel, Microsoft Power Bi, Data Analitics, Data Science
 
 Profissional com formação em Tecnologia da Informação. 
 Pós Graduado em MBA Executivo Gestão de Logística .
@@ -31,6 +31,6 @@ Profissional com mais de 13 anos de experiência na Área de Logística, atuando
 <b>Análise de Dados Airbnb - Los Angeles:</b> https://bit.ly/2SVHjz5<br>
 <b>Análise de Dados Airbnb - Tokyo:</b> https://bit.ly/2y4PWRc<br>
 <b>Análise Exploratória - Violência no Rio de Janeiro:</b> https://bit.ly/2Vqtriz<br>
-<b>Análise Exploratória - Doenças Cardiovasculares:</b> 
+<b>Análise Exploratória - Doenças Cardiovasculares:</b> https://bit.ly/2M5GqRv
 
 
