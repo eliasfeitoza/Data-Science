@@ -31,7 +31,7 @@ Profissional com mais de 13 anos de experiência na Área de Logística, com gra
 <b>Análise de Dados Airbnb - Los Angeles:</b> https://bit.ly/2SVHjz5<br>
 <b>Análise de Dados Airbnb - Tokyo:</b> https://bit.ly/2y4PWRc<br>
 <b>Análise Exploratória - Violência no Rio de Janeiro:</b> https://bit.ly/2Vqtriz<br>
-<b>Análise Exploratória - Doenças Cardiovasculares:</b> https://bit.ly/2M5GqRv
+<b>Análise Exploratória - Doenças Cardiovasculares:</b> https://bit.ly/2M5GqRv<br>
 <b>Machine Learning - Detecção de Fraude em Cartões de Crédito: </b> https://bit.ly/2ZzqDAT </b>
 
 
